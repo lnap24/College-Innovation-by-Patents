@@ -1,11 +1,12 @@
-### Predicting Innovative Colleges from Patent Production
+# Predicting Innovative Colleges from Patent Production
 
 Motivation: Inventors = pioneers of progress
 
 Policy makers want to create places for ideas to thrive to maximize innovative potential and build the economy.
 
 Recent policy is mostly focused on intervening in children's exposure to innovation. However, research has found that higher education institutions also play an important role in helping students develop innovation competence, not just their exposure at a young age.
-Can we predict how innovative a college is through the total number of patents they produce?
+
+### Can we predict how innovative a college is through the total number of patents they produce?
 
 To explore our question, we merged multiple datasets from Opportunity Insights.
 
